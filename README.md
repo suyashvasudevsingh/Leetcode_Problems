@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1563-stone-game-v) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1563-stone-game-v) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1563-stone-game-v) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1872-stone-game-viii) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1563-stone-game-v) |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1872-stone-game-viii) |
@@ -176,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
