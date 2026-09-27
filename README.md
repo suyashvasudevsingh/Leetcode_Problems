@@ -27,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -84,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -119,9 +122,18 @@
 ## Stack
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/suyashvasudevsingh/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
